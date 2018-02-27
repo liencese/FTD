@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: firstStudy
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: LW.firstStudy
+Build-Jdk: 1.7.0_80
+Built-By: lencese
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/firstStudy/
+
